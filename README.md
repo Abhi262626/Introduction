@@ -4,6 +4,6 @@
 
 I am Abhijeet Sharma, currently pursuing a Master's degree in Business Analytics. With approximately six years of professional experience, I have worked in various industries, including e-commerce, healthcare, and pharmaceuticals, primarily in the role of a business analyst.
 
-GitHub:Abhijeet  [Abhijeet](https://github.com/Abhi262626)
+GitHub:  [Abhijeet](https://github.com/Abhi262626)
 
  
